@@ -11,7 +11,7 @@ int main(){
     for(int i=0;i<n;i++){
         int diff =arrr[0]-arrr[n-1];
         printf("%d ",diff);
-        break;
+        break ;
     }
     return 0;
 }
